@@ -1,0 +1,6 @@
+c:\users\583770\documents\visual studio 2013\Projects\HelloWorldWeb\HelloWorldWeb\bin\SimpleWebServer.dll.config
+c:\users\583770\documents\visual studio 2013\Projects\HelloWorldWeb\HelloWorldWeb\bin\SimpleWebServer.dll
+c:\users\583770\documents\visual studio 2013\Projects\HelloWorldWeb\HelloWorldWeb\bin\SimpleWebServer.pdb
+c:\users\583770\documents\visual studio 2013\Projects\HelloWorldWeb\HelloWorldWeb\obj\Debug\SimpleWebServer.csprojResolveAssemblyReference.cache
+c:\users\583770\documents\visual studio 2013\Projects\HelloWorldWeb\HelloWorldWeb\obj\Debug\SimpleWebServer.dll
+c:\users\583770\documents\visual studio 2013\Projects\HelloWorldWeb\HelloWorldWeb\obj\Debug\SimpleWebServer.pdb
